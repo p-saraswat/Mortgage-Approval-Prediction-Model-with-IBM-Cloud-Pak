@@ -1,9 +1,7 @@
-# IBM Cloud Pak Data Fabric Demonstration For Mortgage Approval
+# Mortgage Apporval Prediction Model with IBM Cloud Pak
 
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota. 
 
-Project Team:
-Yeshi Lhewa, Navya Mishra, Priyanka Saraswat, Sai Krishna Enugurthi, Swapnil Joshi, Khalil El-Hafi
 
 Project Video: https://youtu.be/Kw53UJx5Ua0
 
